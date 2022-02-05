@@ -22,7 +22,7 @@ on:
 #    - cron: 0 8 * * 5
 
 env:
-  REPO_URL: https://github.com/gl-inet/openwrt
+  REPO_URL: https://github.com/thxg123/openwrt
   REPO_BRANCH: openwrt-18.06.5
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
